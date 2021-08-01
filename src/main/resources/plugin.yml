@@ -1,0 +1,4 @@
+name: SignBoardPlugin
+version: @version@
+main: com.github.zoidayo.spigot.signboardplugin.Main
+api-version: 1.16
